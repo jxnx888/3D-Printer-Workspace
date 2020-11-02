@@ -21,6 +21,10 @@ This project used `DecalGeometry`, `OrbitControls`, `STLLoader`... (without ES6)
  
 Download project and run `npm install`, then just find the file path: `../src/3DPrinting.html`
 
+
+### Showcase: ### 
+![image](./img/3DPringWorkSpance.gif)
+
 [npm]: https://img.shields.io/npm/v/three
 [npm-url]: https://www.npmjs.com/package/three
 [build-size]: https://badgen.net/bundlephobia/minzip/three
