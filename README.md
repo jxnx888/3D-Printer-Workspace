@@ -23,7 +23,7 @@ Download project and run `npm install`, then just find the file path: `../src/3D
 
 
 ### Showcase: ### 
-![image](https://github.com/jxnx888/3D-Printer-Workspace-three.js)
+![image](https://github.com/jxnx888/3D-Printer-Workspace/blob/main/img/3DPringWorkSpance.gif)
 
 [npm]: https://img.shields.io/npm/v/three
 [npm-url]: https://www.npmjs.com/package/three
